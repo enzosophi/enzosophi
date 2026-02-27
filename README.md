@@ -1,12 +1,10 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://media.tenor.com/7S8U_T_S6mQAAAAd/hotline-miami-jacket.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36f9f6&height=120&section=header&text=ENZO.EXE%20%7C%20CODENAME:%20JACKET&fontSize=35&fontColor=fbff00&animation=fadeIn" width="100%"/>
 </div>
 
 ###
-
-<h1 align="left"><font color="#fbff00">ENTRY: ENZO.EXE 📞 CODENAME: JACKET</font></h1>
 
 <p align="left"><i>"Did you know what error it is?"</i></p>
 
@@ -34,6 +32,10 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" />
 </div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzosophi&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=5&theme=neon&hide_border=true&order=2" height="150" alt="languages progress bar" />
+</div>
+
 ### <font color="#fbff00">📁 Concealed Tools (Secondary)</font>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
@@ -52,7 +54,10 @@
 ### <font color="#ff00ff">📈 Performance Review</font>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=enzosophi&show_icons=true&theme=neon&include_all_commits=true&count_private=true&font_color=fbff00&title_color=ff00ff&icon_color=00ffff" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosophi&layout=compact&theme=neon&langs_count=5&title_color=ff00ff&text_color=00ffff" alt="langs" height="150" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzosophi&theme=neon&hide_border=true" alt="streak stats" height="150" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=6&section=header" width="100%">
