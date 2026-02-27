@@ -1,8 +1,7 @@
 <br clear="both">
 
-<div align="center">
-<img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/L0S7szpLkOll7VqV1u/giphy.gif"  />
-</div>
+
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/AC0k" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 
 <h1 align="left"><font color="#fbff00">ENTRY: ENZO.EXE 📞</font></h1>
 
