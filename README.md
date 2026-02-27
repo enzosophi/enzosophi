@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36f9f6&height=120&section=header&text=ENZO.EXE%20%7C%20CODENAME:%20JACKET&fontSize=35&fontColor=fbff00&animation=fadeIn" width="100%"/>
-</div>
+<div class="tenor-gif-embed" data-postid="7554793106797678591" data-share-method="host" data-aspect-ratio="0.993939" data-width="100%"><a href="https://tenor.com/view/richard-hotline-miami-gif-7554793106797678591">Richard Hotline Miami GIF</a>from <a href="https://tenor.com/search/richard+hotline+miami-gifs">Richard Hotline Miami GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
