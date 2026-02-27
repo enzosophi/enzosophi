@@ -1,9 +1,4 @@
 <br clear="both">
-
-<div align="center">
-  <img height="228" src="https://giffiles.alphacoders.com/220/220234.gif"  />
-</div>
-
 ###
 
 <h1 align="left">Hey, I'm Enzo 👋</h1>
@@ -19,6 +14,10 @@
 🎲 XP +10 for every compile error
 </p>
 
+---
+<div align="center">
+  <img height="228" src="https://giffiles.alphacoders.com/220/220234.gif"  />
+</div>
 ---
 
 ### 🚀 Main Stack (Focus)
