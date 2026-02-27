@@ -1,7 +1,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://media.tenor.com/7554793106797678591/richard-hotline-miami.gif" width="100%" alt="Richard Hotline Miami">
+  <img src="https://media.tenor.com/C_v5E6P_z6AAAAAC/richard-hotline-miami.gif" width="100%" alt="Richard Hotline Miami">
 </p>
 ###
 
