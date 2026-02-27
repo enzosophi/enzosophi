@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=100&section=header&text=ULTRAVIOLET%20MISSION&fontSize=40&fontColor=fbff00&animation=twinkle" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/C_v5E6P_z6AAAAAC/richard-hotline-miami.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=100&section=header&text=CODING%20MISSION&fontSize=40&fontColor=fbff00&animation=twinkle" width="100%">
 </p>
 
 ---
@@ -70,7 +66,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzosophi&label=KILLS%20(VIEWS)&color=fbff00&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=enzosophi&label=CALLS%20(VIEWS)&color=fbff00&style=flat-square" />
   <br><br>
   <p align="center">
     <font color="#ff00ff"><i>"Se o problema não foi resolvido é porque não teve gambiarra o suficiente"</i></font> <br>
