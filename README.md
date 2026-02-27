@@ -1,7 +1,8 @@
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="7554793106797678591" data-share-method="host" data-aspect-ratio="0.993939" data-width="100%"><a href="https://tenor.com/view/richard-hotline-miami-gif-7554793106797678591">Richard Hotline Miami GIF</a>from <a href="https://tenor.com/search/richard+hotline+miami-gifs">Richard Hotline Miami GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<p align="center">
+  <img src="https://media.tenor.com/7554793106797678591/richard-hotline-miami.gif" width="100%" alt="Richard Hotline Miami">
+</p>
 ###
 
 <p align="left"><i>"Did you know what error it is?"</i></p>
