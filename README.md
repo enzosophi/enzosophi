@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=header&text=MISSION%20START&fontSize=50&fontColor=fbff00&animation=fadeIn" width="100%">
+  <img src="https://64.media.tumblr.com/79685376174a70669f53e020e980e1c0/tumblr_n6v77haY681sqp93bo1_500.gif" width="100%" height="150px" style="object-fit: cover;">
 </p>
 
 <p align="center">
@@ -34,15 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzosophi&layout=compact&theme=neon&hide_border=true" height="150" />
 </p>
 
-### <font color="#fbff00">📁 Concealed Tools (Secondary)</font>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ffff&height=6&section=header" width="100%">
 
 ### <font color="#ff00ff">📈 Performance Review</font>
@@ -50,8 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=enzosophi&show_icons=true&theme=neon&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzosophi&theme=neon&hide_border=true" height="150" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=6&section=header" width="100%">
 
 ### <font color="#fbff00">📞 Incoming Calls</font>
 <p align="left">
@@ -61,7 +50,6 @@
   <a href="https://www.instagram.com/enzo_sophis" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FBFF00?style=for-the-badge&logo=instagram&logoColor=black" height="30" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=black" height="30" />
 </p>
 
 <div align="center">
@@ -72,5 +60,5 @@
     <font color="#ff00ff"><i>"Se o problema não foi resolvido é porque não teve gambiarra o suficiente"</i></font> <br>
     <b><font color="#00ffff">LEVEL CLEAR</font></b>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer&animation=twinkle" width="100%"/>
+  <img src="https://i.pinimg.com/originals/f3/00/21/f30021966a9f5383f980753549647610.gif" width="100%" height="80px" style="object-fit: cover;">
 </div>
