@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L0S7szpLkOll7VqV1u/giphy.gif" />
+  <img height="250" src="https://media.tenor.com/7S8U_T_S6mQAAAAd/hotline-miami-jacket.gif" />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 🎲 <font color="#00ffff">XP +10 for every compile error</font>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=6&section=header" width="100%">
 
 ### <font color="#fbff00">🔪 Lethal Weapons (Main Stack)</font>
 <div align="left">
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="js"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ffff&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ffff&height=6&section=header" width="100%">
 
 ### <font color="#ff00ff">📈 Performance Review</font>
 <div align="left">
@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosophi&layout=compact&theme=neon&langs_count=5&title_color=ff00ff&text_color=00ffff" alt="langs" height="150" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff&height=6&section=header" width="100%">
 
 ### <font color="#fbff00">📞 Incoming Calls</font>
 <div align="left">
