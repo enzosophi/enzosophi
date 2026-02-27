@@ -67,3 +67,15 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=enzosophi&label=PROFILE%20VIEWS&color=ff7edb&style=flat" alt="Views" />
+  <br>
+  <p align="center">
+    <i>"Se o problema não foi resolvido é porque não teve gambiarra o suficiente"</i> <br>
+    <b>Codando meus problemas</b>
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36f9f6&height=60&section=footer" width="100%"/>
+</div>
