@@ -51,15 +51,6 @@
 
 ---
 
-### 📊 My Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzosophi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Enzo's GitHub stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosophi&layout=compact&theme=dracula&langs_count=5" alt="Enzo's Top Langs" height="150" />
-</div>
-
----
-
 ### 🤝 Connect with me
 <div align="left">
   <a href="https://www.linkedin.com/in/enzo-pinheiro-de-oliveira-4905952ab" target="_blank">
