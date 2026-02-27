@@ -8,7 +8,7 @@
 
 <h1 align="left"><font color="#fbff00">ENTRY: ENZO.EXE 📞</font></h1>
 
-<p align="left"><i>"Did you know what time it is?"</i></p>
+<p align="left"><i>"Did you know what error it is?"</i></p>
 
 ### <font color="#ff00ff">🧠 Mission Profile</font>
 
